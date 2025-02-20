@@ -103,10 +103,10 @@ http://localhost:5000/api
   "message": "Todo deleted successfully"
 }
 
-Contributing
+## Contributing
 
-Feel free to contribute by forking the repository and submitting a pull request.
+- Feel free to contribute by forking the repository and submitting a pull request.
 
-License
+## License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
