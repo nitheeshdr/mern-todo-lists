@@ -26,7 +26,7 @@ This is a full-stack Todo List web application.
 git clone https://github.com/nitheeshdr/mern-todo-lists.git
 cd mern-todo-lists
 
-### 2. Install Dependencies
+## 2. Install Dependencies
 ```sh 
 npm install
 
