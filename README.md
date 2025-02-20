@@ -22,22 +22,22 @@ This is a full-stack Todo List web application.
 ## Installation & Setup
 
 ### 1. Clone the Repository
-```sh
+
 git clone https://github.com/nitheeshdr/mern-todo-lists.git
 cd mern-todo-lists
 
 ## 2. Install Dependencies
-```sh 
+
 npm install
 
 ### 3. Start the Application
-```sh
+
 npm start
 
 ### API Endpoints
 
 ### Base URL:
-```sh
+
 http://localhost:5000/api
 
 ### Endpoints:
@@ -47,7 +47,7 @@ http://localhost:5000/api
 ### GET /todos
 
 ### Response:
-```sh
+
 [
   {
     "_id": "650e7a2b3d10",
@@ -61,13 +61,13 @@ http://localhost:5000/api
 ### POST /todos
 
 ### Request Body:
-```sh
+
 {
   "title": "New Todo"
 }
 
 ### Response:
-```sh
+
 {
   "_id": "650e7a2b3d11",
   "title": "New Todo",
@@ -79,14 +79,14 @@ http://localhost:5000/api
 ### PUT /todos/:id
 
 ### Request Body:
-```sh
+
 {
   "title": "Updated Todo",
   "completed": true
 }
 
 ### Response:
-```sh
+
 {
   "_id": "650e7a2b3d10",
   "title": "Updated Todo",
@@ -98,14 +98,13 @@ http://localhost:5000/api
 ### DELETE /todos/:id
 
 ### Response:
-```sh
+
 {
   "message": "Todo deleted successfully"
 }
 
 ## Contributing
-
-- Feel free to contribute by forking the repository and submitting a pull request.
+Feel free to contribute by forking the repository and submitting a pull request.
 
 ## License
 
